@@ -27,7 +27,7 @@
     {
       "id": "5",
       "name": "Mom",
-      "balance": 0,
+      "balance": 2.5,
       "code": "1010"
     }
   ],
@@ -8539,8 +8539,9 @@
       "userId": "5",
       "userName": "Mom",
       "amount": 2.5,
-      "status": "pending",
-      "requestedAt": "12/23/2025, 3:06:30 AM"
+      "status": "approved",
+      "requestedAt": "12/23/2025, 3:06:30 AM",
+      "approvedAt": "12/23/2025, 3:06:40 AM"
     },
     {
       "id": "1766480358906",
@@ -8562,6 +8563,11 @@
     }
   ],
   "loginLogs": [
+    {
+      "timestamp": "12/23/2025, 3:06:40 AM",
+      "user": "Admin",
+      "action": "Approved loan of $2.50 for Mom"
+    },
     {
       "timestamp": "12/23/2025, 3:06:38 AM",
       "user": "Admin",
@@ -8748,5 +8754,5 @@
       "action": "Started chore: Dishes"
     }
   ],
-  "lastUpdated": "2025-12-23T09:06:39.697Z"
+  "lastUpdated": "2025-12-23T09:06:41.419Z"
 }
