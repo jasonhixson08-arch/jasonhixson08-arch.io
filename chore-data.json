@@ -32,7 +32,8 @@
       "id": "5",
       "name": "Mom",
       "balance": 2.5,
-      "code": "1010"
+      "code": "1010",
+      "exempt": true
     }
   ],
   "chores": [
@@ -8580,6 +8581,11 @@
   ],
   "loginLogs": [
     {
+      "timestamp": "12/23/2025, 1:07:27 PM",
+      "user": "Admin",
+      "action": "Added exemption for Mom"
+    },
+    {
       "timestamp": "12/23/2025, 1:07:26 PM",
       "user": "Admin",
       "action": "Added exemption for Jason"
@@ -8855,5 +8861,5 @@
       "action": "Started chore: Dishes"
     }
   ],
-  "lastUpdated": "2025-12-23T19:07:27.141Z"
+  "lastUpdated": "2025-12-23T19:07:28.596Z"
 }
