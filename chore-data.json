@@ -8530,6 +8530,11 @@
   ],
   "loginLogs": [
     {
+      "timestamp": "12/23/2025, 2:59:25 AM",
+      "user": "Admin",
+      "action": "Logged in"
+    },
+    {
       "timestamp": "12/23/2025, 2:59:18 AM",
       "user": "Joshua",
       "action": "Requested loan of $10.00"
@@ -8650,5 +8655,5 @@
       "action": "Started chore: Dishes"
     }
   ],
-  "lastUpdated": "2025-12-23T08:59:20.908Z"
+  "lastUpdated": "2025-12-23T08:59:26.890Z"
 }
