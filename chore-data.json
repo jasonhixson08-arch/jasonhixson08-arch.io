@@ -49,7 +49,9 @@
       "id": "3",
       "name": "Counters",
       "pay": 0.5,
-      "status": "available"
+      "status": "in-progress",
+      "assignedTo": "1",
+      "startTime": "3:05 AM"
     },
     {
       "id": "4",
@@ -8544,6 +8546,11 @@
   ],
   "loginLogs": [
     {
+      "timestamp": "12/23/2025, 3:05:50 AM",
+      "user": "Joshua",
+      "action": "Started chore: Counters"
+    },
+    {
       "timestamp": "12/23/2025, 3:05:24 AM",
       "user": "Admin",
       "action": "Changed PIN for Joshua"
@@ -8709,5 +8716,5 @@
       "action": "Started chore: Dishes"
     }
   ],
-  "lastUpdated": "2025-12-23T09:05:26.909Z"
+  "lastUpdated": "2025-12-23T09:05:51.623Z"
 }
