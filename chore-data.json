@@ -4,7 +4,7 @@
       "id": "1",
       "name": "Joshua",
       "balance": 12,
-      "code": "9900"
+      "code": "9090"
     },
     {
       "id": "2",
@@ -8544,6 +8544,11 @@
   ],
   "loginLogs": [
     {
+      "timestamp": "12/23/2025, 3:05:24 AM",
+      "user": "Admin",
+      "action": "Changed PIN for Joshua"
+    },
+    {
       "timestamp": "12/23/2025, 3:04:45 AM",
       "user": "Admin",
       "action": "Logged in"
@@ -8704,5 +8709,5 @@
       "action": "Started chore: Dishes"
     }
   ],
-  "lastUpdated": "2025-12-23T09:04:46.332Z"
+  "lastUpdated": "2025-12-23T09:05:26.909Z"
 }
