@@ -36,7 +36,8 @@
       "id": "1",
       "name": "Dishes",
       "pay": 3,
-      "status": "available"
+      "status": "available",
+      "weight": "heavy"
     },
     {
       "id": "2",
@@ -480,6 +481,11 @@
   "loanRequests": [],
   "loginLogs": [
     {
+      "timestamp": "12/23/2025, 2:01:19 AM",
+      "user": "Admin",
+      "action": "Updated chore: Dishes (heavy)"
+    },
+    {
       "timestamp": "12/23/2025, 2:01:07 AM",
       "user": "Admin",
       "action": "Generated yearly schedule with smart chore distribution"
@@ -570,5 +576,5 @@
       "action": "Started chore: Dishes"
     }
   ],
-  "lastUpdated": "2025-12-23T08:01:10.990Z"
+  "lastUpdated": "2025-12-23T08:01:20.070Z"
 }
