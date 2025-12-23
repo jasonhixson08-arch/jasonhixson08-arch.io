@@ -100,42 +100,42 @@
   ],
   "weeklySchedule": {
     "Saturday": {
-      "1": [
-        "Living Room"
-      ],
       "2": [
+        "Counters",
+        "Floors"
+      ],
+      "3": [
         "Trash",
         "Dishes"
       ],
-      "4": [
-        "Counters",
-        "Floors"
+      "5": [
+        "Living Room"
       ]
     },
     "Sunday": {
       "1": [
-        "Living Room"
-      ],
-      "2": [
         "Trash",
         "Dishes"
       ],
       "4": [
+        "Living Room"
+      ],
+      "5": [
         "Counters",
         "Floors"
       ]
     },
     "Monday": {
-      "1": [
-        "Living Room"
-      ],
       "2": [
+        "Counters",
+        "Floors"
+      ],
+      "3": [
         "Trash",
         "Dishes"
       ],
       "4": [
-        "Counters",
-        "Floors"
+        "Living Room"
       ]
     },
     "Tuesday": {
@@ -152,48 +152,53 @@
       ]
     },
     "Wednesday": {
-      "1": [
+      "2": [
         "Trash",
         "Dishes"
-      ],
-      "2": [
-        "Living Room"
       ],
       "3": [
         "Counters",
         "Floors"
+      ],
+      "4": [
+        "Living Room"
       ]
     },
     "Thursday": {
       "1": [
-        "Trash",
-        "Dishes"
-      ],
-      "2": [
         "Counters",
         "Floors"
       ],
       "3": [
         "Living Room"
+      ],
+      "4": [
+        "Trash",
+        "Dishes"
       ]
     },
     "Friday": {
       "1": [
-        "Living Room"
-      ],
-      "2": [
-        "Trash",
-        "Dishes"
-      ],
-      "4": [
         "Counters",
         "Floors"
+      ],
+      "4": [
+        "Living Room"
+      ],
+      "5": [
+        "Trash",
+        "Dishes"
       ]
     }
   },
   "storedAdminPin": "Hixson",
   "loanRequests": [],
   "loginLogs": [
+    {
+      "timestamp": "12/23/2025, 1:27:58 AM",
+      "user": "Admin",
+      "action": "Generated weekly schedule"
+    },
     {
       "timestamp": "12/23/2025, 1:27:49 AM",
       "user": "Admin",
@@ -250,5 +255,5 @@
       "action": "Started chore: Dishes"
     }
   ],
-  "lastUpdated": "2025-12-23T07:27:50.769Z"
+  "lastUpdated": "2025-12-23T07:28:00.566Z"
 }
