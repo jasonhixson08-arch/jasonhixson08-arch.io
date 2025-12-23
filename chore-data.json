@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Joshua",
+      "balance": 0,
+      "code": "9900"
+    },
+    {
+      "id": "2",
+      "name": "Jayden",
+      "balance": 0,
+      "code": "9999"
+    },
+    {
+      "id": "3",
+      "name": "Daysha",
+      "balance": 0,
+      "code": "8585"
+    },
+    {
+      "id": "4",
+      "name": "Jason",
+      "balance": 0,
+      "code": "9485"
+    },
+    {
+      "id": "5",
+      "name": "Mom",
+      "balance": 0,
+      "code": "1010"
+    }
+  ],
+  "chores": [
+    {
+      "id": "1",
+      "name": "Dishes",
+      "pay": 3,
+      "status": "available"
+    },
+    {
+      "id": "2",
+      "name": "Trash",
+      "pay": 0.5,
+      "status": "available"
+    },
+    {
+      "id": "3",
+      "name": "Counters",
+      "pay": 0.5,
+      "status": "available"
+    },
+    {
+      "id": "4",
+      "name": "Living Room",
+      "pay": 2,
+      "status": "available"
+    },
+    {
+      "id": "5",
+      "name": "Floors",
+      "pay": 3,
+      "status": "available"
+    }
+  ],
+  "completedChores": [],
+  "weeklySchedule": {},
+  "storedAdminPin": "Hixson",
+  "loanRequests": [],
+  "loginLogs": [],
+  "lastUpdated": "2025-12-23T06:08:41.767Z"
+}
